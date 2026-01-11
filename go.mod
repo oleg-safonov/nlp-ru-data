@@ -4,7 +4,7 @@ go 1.24.0
 
 toolchain go1.24.11
 
-require github.com/oleg-safonov/nlp v0.0.0-20260111185014-5b91f0b9d19f
+require github.com/oleg-safonov/nlp v0.0.0-20260111193850-a118313eee7a
 
 require (
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect

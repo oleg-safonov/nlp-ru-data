@@ -3,6 +3,7 @@ package nlprudata
 import (
 	"archive/zip"
 	"bytes"
+	_ "embed"
 	"encoding/gob"
 	"fmt"
 
